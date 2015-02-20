@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Fill the matrix", "01.Fill the matrix\01.Fill the matrix.csproj", "{F2659089-AC2D-4BBA-8C72-742AEE544E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Maximal sum", "02.Maximal sum\02.Maximal sum.csproj", "{A16A9812-1436-4DF5-AA36-711DCF706D69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Sequence n matrix", "03.Sequence n matrix\03.Sequence n matrix.csproj", "{1441FC9B-89FE-40E8-87DB-C101427033D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Binary search", "04.Binary search\04.Binary search.csproj", "{5698F747-DCAE-4F0B-B9D8-6F096440DDDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Sort by string length", "05.Sort by string length\05.Sort by string length.csproj", "{23911B87-6AEC-4687-A5A6-017374D2D435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Matrix class", "06.Matrix class\06.Matrix class.csproj", "{BBA01701-7D57-4354-801E-889B1245A102}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Largest area in matrix", "07.Largest area in matrix\07.Largest area in matrix.csproj", "{AA297EB8-118B-46B6-8248-0CE219E02627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2659089-AC2D-4BBA-8C72-742AEE544E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2659089-AC2D-4BBA-8C72-742AEE544E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2659089-AC2D-4BBA-8C72-742AEE544E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2659089-AC2D-4BBA-8C72-742AEE544E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A16A9812-1436-4DF5-AA36-711DCF706D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A16A9812-1436-4DF5-AA36-711DCF706D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A16A9812-1436-4DF5-AA36-711DCF706D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A16A9812-1436-4DF5-AA36-711DCF706D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1441FC9B-89FE-40E8-87DB-C101427033D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1441FC9B-89FE-40E8-87DB-C101427033D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1441FC9B-89FE-40E8-87DB-C101427033D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1441FC9B-89FE-40E8-87DB-C101427033D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5698F747-DCAE-4F0B-B9D8-6F096440DDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5698F747-DCAE-4F0B-B9D8-6F096440DDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5698F747-DCAE-4F0B-B9D8-6F096440DDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5698F747-DCAE-4F0B-B9D8-6F096440DDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23911B87-6AEC-4687-A5A6-017374D2D435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23911B87-6AEC-4687-A5A6-017374D2D435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23911B87-6AEC-4687-A5A6-017374D2D435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23911B87-6AEC-4687-A5A6-017374D2D435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA01701-7D57-4354-801E-889B1245A102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA01701-7D57-4354-801E-889B1245A102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA01701-7D57-4354-801E-889B1245A102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA01701-7D57-4354-801E-889B1245A102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA297EB8-118B-46B6-8248-0CE219E02627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA297EB8-118B-46B6-8248-0CE219E02627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA297EB8-118B-46B6-8248-0CE219E02627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA297EB8-118B-46B6-8248-0CE219E02627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
