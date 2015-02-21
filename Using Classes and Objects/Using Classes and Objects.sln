@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Leap year", "01.Leap year\01.Leap year.csproj", "{19E7850A-6246-4954-9D3A-BA9DC3186A2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Random numbers", "02.Random numbers\02.Random numbers.csproj", "{B7226816-43F2-4B69-AB49-27D36CBA4B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Day of week", "03.Day of week\03.Day of week.csproj", "{DEC2D0AB-A5E4-45E4-A2FE-18D1407EB019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Triangle surface", "04.Triangle surface\04.Triangle surface.csproj", "{692AC80A-6F19-4B76-BB21-C8CB007F2D3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Workdays", "05.Workdays\05.Workdays.csproj", "{0A3DCC58-E491-4CCA-98B2-E048F871153D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Sum integers", "06.Sum integers\06.Sum integers.csproj", "{F8EDC54C-25D1-4B57-BE52-DD1F6028EF59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Arithmetical expressions", "07.Arithmetical expressions\07.Arithmetical expressions.csproj", "{94AA7CA4-F9CA-4E91-8F11-EB394027C93B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E7850A-6246-4954-9D3A-BA9DC3186A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E7850A-6246-4954-9D3A-BA9DC3186A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E7850A-6246-4954-9D3A-BA9DC3186A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E7850A-6246-4954-9D3A-BA9DC3186A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7226816-43F2-4B69-AB49-27D36CBA4B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7226816-43F2-4B69-AB49-27D36CBA4B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7226816-43F2-4B69-AB49-27D36CBA4B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7226816-43F2-4B69-AB49-27D36CBA4B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC2D0AB-A5E4-45E4-A2FE-18D1407EB019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC2D0AB-A5E4-45E4-A2FE-18D1407EB019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC2D0AB-A5E4-45E4-A2FE-18D1407EB019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC2D0AB-A5E4-45E4-A2FE-18D1407EB019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692AC80A-6F19-4B76-BB21-C8CB007F2D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692AC80A-6F19-4B76-BB21-C8CB007F2D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692AC80A-6F19-4B76-BB21-C8CB007F2D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692AC80A-6F19-4B76-BB21-C8CB007F2D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A3DCC58-E491-4CCA-98B2-E048F871153D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3DCC58-E491-4CCA-98B2-E048F871153D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3DCC58-E491-4CCA-98B2-E048F871153D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3DCC58-E491-4CCA-98B2-E048F871153D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8EDC54C-25D1-4B57-BE52-DD1F6028EF59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EDC54C-25D1-4B57-BE52-DD1F6028EF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8EDC54C-25D1-4B57-BE52-DD1F6028EF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8EDC54C-25D1-4B57-BE52-DD1F6028EF59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94AA7CA4-F9CA-4E91-8F11-EB394027C93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94AA7CA4-F9CA-4E91-8F11-EB394027C93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94AA7CA4-F9CA-4E91-8F11-EB394027C93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94AA7CA4-F9CA-4E91-8F11-EB394027C93B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
