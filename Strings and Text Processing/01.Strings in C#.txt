@@ -1,0 +1,37 @@
+A string is an object of type String whose value is text. Internally, the text is stored as a sequential read-only collection of Char objects. There is no null-terminating character at the end of a C# string; therefore a C# string can contain any number of embedded null characters ('\0'). The Length property of a string represents the number of Char objects it contains, not the number of Unicode characters. 
+
+A string is immutable. It can be used in many methods, and none of them have to worry about data changes. It never becomes invalid. This reduces copies and makes programs more robust.
+
+Performance. In typical usage strings are fast. But they are sometimes used in an inefficient way. Often reducing string allocations is helpful.
+
+StringBuilder. This is not a string,
+but it is used to build up
+or change strings. For appending strings in a loop, we likely want to use StringBuilder.
+
+Empty. An empty string has zero characters. Meanwhile a null string is no string at all. It is a reference that points to no memory location.
+
+Methods:
+Compare
+Concat
+Contains
+Empty
+Equals
+Format
+IndexOf
+Insert
+Join
+LastIndexOf
+Length
+PadLeft
+PadRight
+Remove
+Replace
+Split
+Substring
+ToCharArray
+ToLower
+ToString
+ToUpper
+Trim
+TrimEnd
+TrimStart
